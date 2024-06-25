@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Language Localization by Hassan</string>
+    <string name="selectLanguage">Select Language</string>
+
+
+    <string name="english" translatable="false">English</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="serbian" translatable="false">Serbian</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="french" translatable="false">French</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="thai" translatable="false">Thai</string>
+    <string name="african" translatable="false">African</string>
+    <string name="armanian" translatable="false">Armanian</string>
+    <string name="azerbaijaan" translatable="false">Azerbaijaan</string>
+    <string name="balrusian" translatable="false">Balrusian</string>
+    <string name="bulgarian" translatable="false">Bulgarian</string>
+    <string name="krotian" translatable="false">Croatian</string>
+    <string name="dannish" translatable="false">Dannish</string>
+    <string name="dutch" translatable="false">Dutch</string>
+    <string name="philipine" translatable="false">Philipine</string>
+    <string name="finissh" translatable="false">Fennish</string>
+    <string name="hibru" translatable="false">Hibru</string>
+    <string name="iceland" translatable="false">Ice Landic</string>
+    <string name="kzakistan" translatable="false">Kazakistani</string>
+    <string name="korean" translatable="false">korean</string>
+    <string name="malaysian" translatable="false">Malaysian</string>
+    <string name="norogwain" translatable="false">Norwagian</string>
+    <string name="polish" translatable="false">Polish</string>
+    <string name="romanian" translatable="false">Romanian</string>
+    <string name="slovak" translatable="false">Slovak</string>
+    <string name="swedish" translatable="false">Swedish</string>
+    <string name="uzbik" translatable="false">Uzbik</string>
+    <string name="vietnam" translatable="false">Vietnam</string>
+    <string name="hello_world_english">Hello world English</string>
+</resources>
